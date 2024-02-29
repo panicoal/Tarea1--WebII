@@ -5,6 +5,7 @@
 }
 body{
     font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
 }
 #general{
     width: 600px;
